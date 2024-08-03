@@ -40,7 +40,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/sweekar2999/sweekar2999/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: sweekardhaigude2999@gmail.com">sweekardhaigude2999@gmail.com</a>
+  📫 How to reach me: <a href="mailto: sweekardhaigude2999@gmail.com">sweekardhaigude103@gmail.com</a>
 </p>
 
 <hr>
