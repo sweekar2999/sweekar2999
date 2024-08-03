@@ -7,10 +7,30 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://linkedin.com/in/sweekardhaigude" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn</a></code>
-  <code><a href="https://instagram.com/sweekardhaigude2999_" title="Instagram Profile"><img width="22" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> Instagram</a></code>
+  <a href="https://www.linkedin.com/in/sweekar-dhaigude/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sweekardhaigude2999_/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </h5>
 <br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480" height="320" />
+  
+  <div>
+    <p>
+      <h3>I'm a Software Developer</h3>
+      - 🔭 I'm currently working on NodeJS Projects<br>
+      - 🌱 I'm currently learning NodeJS & React<br>
+      - 👯 I'm looking to collaborate on NodeJS projects<br>
+      - 💬 Ask me about NodeJS, JavaScript, Java, Python<br>
+      - ⚡ Fun fact: I use tabs over spaces<br>
+    </p>
+  </div>
+</div>
+
 <p align="center">
   Hi, I'm Sweekar Dhaigude, Full Stack Developer & Code Enthusiast & Problem Solver from India
   <br>
@@ -25,6 +45,7 @@
 </p>
 
 <hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -45,6 +66,7 @@
   <code><img title="Bootstrap" height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
   <code><img title="Tailwind CSS" height="25" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 </p>
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -65,7 +87,6 @@
     </a>
   </div>
   <br>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweekar2999&theme=radical" width="100%"/>
 </p>
 
@@ -74,13 +95,13 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/sweekar2999/repo1" title="Repo 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=repo1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/sweekar2999/repo2" title="Repo 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=repo2&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sweekar2999/Telegram-FakeStoreAPI-Bot-NodeJS" title="Telegram-FakeStoreAPI-Bot-NodeJS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Telegram-FakeStoreAPI-Bot-NodeJS&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/sweekar2999/CodingBlocks-JavaDSA" title="CodingBlocks-JavaDSA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=CodingBlocks-JavaDSA&theme=radical&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/sweekar2999/repo3" title="Repo 3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=repo3&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/sweekar2999/repo4" title="Repo 4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=repo4&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sweekar2999/Travel_bnb" title="Travel_bnb"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Travel_bnb&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/sweekar2999/Job-seeking-Application" title="Job-seeking-Application"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Job-seeking-Application&theme=radical&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
