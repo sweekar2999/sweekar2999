@@ -25,8 +25,7 @@
       - 🔭 I'm currently working on NodeJS Projects<br>
       - 🌱 I'm currently learning NodeJS & React<br>
       - 👯 I'm looking to collaborate on NodeJS projects<br>
-      - 💬 Ask me about NodeJS, JavaScript, Java, Python<br>
-      - ⚡ Fun fact: I use tabs over spaces<br>
+      - 💬 Ask me about NodeJS, JavaScript, Java<br>
     </p>
   </div>
 </div>
