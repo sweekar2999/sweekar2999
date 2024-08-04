@@ -43,9 +43,7 @@
   📫 How to reach me: <a href="mailto: sweekardhaigude2999@gmail.com">sweekardhaigude103@gmail.com</a>
 </p>
 
-<hr>
-
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<hr><h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -66,24 +64,24 @@
   <code><img title="Heroku" height="25" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
   <code><img title="Bootstrap" height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
   <code><img title="Tailwind CSS" height="25" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+  <code><img title="NGINX" height="25" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></code>
 </p>
-
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sweekar2999&theme=radical&hide_border=true&border_radius=10" alt="sweekar2999" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sweekar2999&show_icons=true&locale=en&theme=radical&hide_border=true&border_radius=10" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sweekar2999&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&border_radius=10" />
     </a>
   </div>
