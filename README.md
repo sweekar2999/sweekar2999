@@ -1,6 +1,10 @@
+<!-- Profile Visits Badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sweekar2999.sweekar2999" alt="Visitor Badge"/>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Profile!;I+am+Sweekar+Dhaigude!;Full+Stack+Developer!;Lover+of+Coding+and+Coffee!;Always+Learning+New+Tech!&center=true&size=30">
+    <!-- Typing Animation with Increased Size and Changed Font Color -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Profile!;I+am+Sweekar+Dhaigude!;Full+Stack+Developer!&center=true&size=40&color=00A86B&width=700" alt="Typing Animation"/>
   </a>
 </h1>
 
@@ -43,15 +47,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,java,docker,kubernetes,aws,git,github,jenkins" alt="Tech Stack Icons" />
 </div>
 
-
 ---
 
-<!-- Dynamic GitHub Stats with Radial Background -->
+<!-- Dynamic GitHub Stats with Custom Colors -->
 <h2 align="center">⚡ GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sweekar2999&show_icons=true&theme=radical&hide_border=true&radius=50" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweekar2999&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweekar2999&theme=radical" alt="Profile Summary" width="80%" />
+  <!-- Custom colors for stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sweekar2999&show_icons=true&theme=tokyonight&hide_border=true&radius=50" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweekar2999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweekar2999&theme=tokyonight" alt="Profile Summary" width="80%" />
 </div>
 
 ---
@@ -60,18 +64,18 @@
 <h2 align="center">👨‍💻 Featured Projects</h2>
 <div align="center">
   <a href="https://github.com/sweekar2999/Telegram-FakeStoreAPI-Bot-NodeJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Telegram-FakeStoreAPI-Bot-NodeJS&theme=radical&hide_border=true&radius=50" alt="Telegram FakeStoreAPI Bot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Telegram-FakeStoreAPI-Bot-NodeJS&theme=tokyonight&hide_border=true&radius=50" alt="Telegram FakeStoreAPI Bot" />
   </a>
   <a href="https://github.com/sweekar2999/Job-seeking-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Job-seeking-Application&theme=radical&hide_border=true&radius=50" alt="Job Seeking Application" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Job-seeking-Application&theme=tokyonight&hide_border=true&radius=50" alt="Job Seeking Application" />
   </a>
 </div>
 
 ---
 
-<!-- Cool Footer with Wave Animation -->
-<div align="center">
+<!-- Centralized Footer with Wave Animation -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20For%20Visiting!%20👋&fontAlign=50&fontAlignY=40&color=gradient" alt="footer wave animation" />
-</div>
+</p>
 
 <!-- End of Profile README -->
