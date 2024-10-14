@@ -61,19 +61,18 @@
 ---
 
 <!-- Cool Repo Cards with Animations -->
-<!-- Cool Repo Cards with Animations -->
 <h2 align="center">👨‍💻 Featured Projects</h2>
 <div align="center">
   <!-- Existing Project Cards -->
   <a href="https://github.com/sweekar2999/CodingBlocks-JavaDSA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=CodingBlocks-JavaDSA&theme=tokyonight&hide_border=true&radius=50" alt="CodingBlocks JavaDSA" />
   </a>
-  <a href="https://github.com/sweekar2999/Job-seeking-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Job-seeking-Application&theme=tokyonight&hide_border=true&radius=50" alt="Job Seeking Application" />
-  </a>
-  <!-- New Project Card -->
   <a href="https://github.com/sweekar2999/Travel_bnb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Travel_bnb&theme=tokyonight&hide_border=true&radius=50" alt="Travel BnB" />
+  </a>
+  <!-- New Project Card -->
+  <a href="https://github.com/sweekar2999/Galaxy_ChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sweekar2999&repo=Galaxy_ChatBot&theme=tokyonight&hide_border=true&radius=50" alt="Galaxy ChatBot" />
   </a>
 </div>
 
